@@ -1,0 +1,15 @@
+# data
+/data
+
+# any datafile
+*.txt
+*.csv
+
+# image files
+*.png
+
+# other
+*.egg-info
+*.ipynb_checkpoints
+*.vscode
+__pycache__/

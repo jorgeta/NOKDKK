@@ -1,0 +1,7 @@
+app: nokdkk
+appversion: 0.0.1
+
+data:
+  ticker: 'NOKDKK=X'
+  period: 'max'
+  interval: '1d'
